@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div className="app">
       <h1>Deployed with GitHub Pages</h1>
-      <img src="https://placedog.net/300" alt="cute doggo" />
+      <img src="https://placedog.net/300" alt="very cute doggo" />
     </div>
   );
 };
